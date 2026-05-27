@@ -1,0 +1,23 @@
+Exercicio 1: Uso de useEffect para Sincronizaçao de DisplayWindowSize
+
+Enunciado:
+Você precisa exibir informaçoes de um usuário que são recebidos via props en un componente.
+Crie um componente que use o hook useEffect para sincronizar as informações do usuário com ( o titulo 
+do documento(o titulo da aba no navegador, head).
+ 
+
+Exercicio 2 : Memorizando Cálculos com useMemo
+
+Enunciado:
+Suponha que você tenha um componente que realiza um cálculo pesado, como uma função de 
+fibonacci que é chamada com um numero especifico. Use o hook useMemo para evitar que o cálculo seja
+refeito desnecessariamente
+
+
+Exercicio 3 : Criação e Uso de um Custom hook
+
+Enunciado:
+Crie um custom hook chamado useOnlineStatus que rastreia se o usuário está online ou offline
+Use este hook en um componente para exibir o status atual do usuário
+
+navigator => online
